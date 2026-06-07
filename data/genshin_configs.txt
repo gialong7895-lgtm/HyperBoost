@@ -1,0 +1,18 @@
+# =====================================================================
+# HYPERBOOST - GENSHIN IMPACT CONFIGS
+# =====================================================================
+# Package: com.miHoYo.GenshinImpact
+# Max FPS: 120 | Vulkan: Yes
+
+# ADB Commands
+adb shell settings put global genshin_max_fps 120
+adb shell settings put system mihoyo_frame_rate 120
+adb shell settings put global genshin_render_quality 4
+adb shell settings put system genshin_vulkan_enabled 1
+adb shell dumpsys deviceidle whitelist +com.miHoYo.GenshinImpact
+
+# Root Config
+# /data/data/com.miHoYo.GenshinImpact/shared_prefs/com.miHoYo.GenshinImpact.xml
+# <int name="graphics_quality" value="4" />
+# <int name="fps" value="120" />
+# <boolean name="vulkan" value="true" />

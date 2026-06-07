@@ -1,0 +1,11 @@
+# =====================================================================
+# HYPERBOOST - MOBILE LEGENDS CONFIGS
+# =====================================================================
+# Package: com.mobile.legends
+# Max FPS: 120 | Vulkan: No
+
+# ADB Commands
+adb shell settings put global mlbb_max_fps 120
+adb shell settings put system mobile_legends_frame_rate 120
+adb shell settings put global mlbb_graphics_quality 4
+adb shell dumpsys deviceidle whitelist +com.mobile.legends

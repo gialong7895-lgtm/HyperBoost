@@ -1,0 +1,28 @@
+# =====================================================================
+# HYPERBOOST - PUBG MOBILE CONFIGS
+# =====================================================================
+# Package: com.tencent.ig
+# Max FPS: 120 | Vulkan: Yes
+
+# ADB Commands
+adb shell settings put global pubg_max_fps 120
+adb shell settings put system tencent_ig_frame_rate 120
+adb shell settings put secure pubg_graphics_quality 4
+adb shell settings put global pubg_rendering_quality 3
+adb shell settings put system pubg_anti_aliasing 1
+adb shell settings put global pubg_shadows_quality 0
+adb shell settings put system pubg_vulkan_enabled 1
+adb shell dumpsys deviceidle whitelist +com.tencent.ig
+
+# GameUserSettings.ini
+# [/Script/ShadowTrackerExtra.STExtraGameUserSettings]
+# FrameRateLimit=120.000000
+# ResolutionQuality=100
+# ViewDistanceQuality=4
+# AntiAliasingQuality=4
+# ShadowQuality=0
+# PostProcessQuality=3
+# TextureQuality=4
+# EffectsQuality=4
+# VSync=False
+# VulkanEnabled=True

@@ -1,0 +1,18 @@
+# =====================================================================
+# HYPERBOOST - 90 FPS SUPPORTED GAMES DATABASE
+# =====================================================================
+com.dts.freefireth|Free Fire|freefire_90fps=true
+com.netease.lostlight|Lost Light|lostlight_fps=90
+com.tencent.subnautica|Subnautica Mobile|subnautica_fps=90
+com.proximabeta.nikke|Goddess of Victory: Nikke|nikke_fps=90
+com.netease.mir4|MIR4|mir4_fps=90
+com.nexon.v4|V4|v4_fps=90
+com.netease.dbsoftware|Dragon Blade|dragonblade_fps=90
+com.tencent.l4d|Left 4 Dead Mobile|l4d_fps=90
+com.valvesoftware.csgo|CS:GO Mobile 90Hz|csgo_90fps=true
+com.netease.diabloimmortal|Diablo Immortal 90Hz|diablo_90fps=true
+com.tencent.pao|Pokémon UNITE 90Hz|pokemon_90fps=true
+com.ea.gp.fifamobile|FIFA Mobile|fifa_fps=90
+com.gameloft.android.GloftGHHM|Gangstar Vegas|gangstar_fps=90
+com.vectorunit.purple|Beach Buggy Racing 2|bbr2_fps=90
+com.hutchgames.rebelracing|Rebel Racing|rebel_fps=90

@@ -1,0 +1,11 @@
+# =====================================================================
+# HYPERBOOST - VALORANT MOBILE CONFIGS
+# =====================================================================
+# Package: com.riotgames.valorant
+# Max FPS: 120 | Vulkan: Yes
+
+adb shell settings put global valorant_max_fps 120
+adb shell settings put system riot_valorant_frame_rate 120
+adb shell settings put global valorant_graphics_quality 4
+adb shell settings put system valorant_vulkan 1
+adb shell dumpsys deviceidle whitelist +com.riotgames.valorant

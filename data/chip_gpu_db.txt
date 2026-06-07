@@ -1,0 +1,24 @@
+# =====================================================================
+# HYPERBOOST - CHIP/GPU DATABASE
+# Format: chip_id|gpu|max_cpu_freq|min_cpu_freq|governor|gpu_max_freq|thermal_limit
+# =====================================================================
+sdm845|Adreno 630|2803200|576000|schedutil|710|75
+sdm855|Adreno 640|2960000|576000|schedutil|800|80
+sdm865|Adreno 650|3180000|576000|performance|900|85
+sdm888|Adreno 660|3280000|576000|performance|1000|85
+sdm8gen1|Adreno 730|3400000|576000|performance|1100|90
+sdm8gen2|Adreno 740|3600000|576000|performance|1200|90
+sdm8gen3|Adreno 750|3800000|576000|performance|1300|95
+exynos2100|Mali-G78|2900000|500000|schedutil|854|80
+exynos2200|Xclipse 920|3000000|500000|performance|1000|85
+exynos2400|Xclipse 940|3200000|500000|performance|1200|90
+tensor|Mali-G78|2800000|500000|schedutil|848|80
+tensor_g2|Mali-G710|3050000|500000|performance|1000|85
+tensor_g3|Mali-G715|3300000|500000|performance|1150|90
+mt6893|Mali-G77|3000000|500000|performance|850|85
+mt6895|Mali-G710|3200000|500000|performance|1000|85
+mt6983|Mali-G720|3400000|500000|performance|1150|90
+kirin9000|Mali-G78|3130000|500000|performance|900|85
+kirin9010|Mali-G710|3300000|500000|performance|1000|90
+a15|Apple A15|3240000|600000|performance|1200|90
+a16|Apple A16|3460000|600000|performance|1300|95

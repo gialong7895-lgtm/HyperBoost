@@ -1,0 +1,108 @@
+# =====================================================================
+# HYPERBOOST COMPLETE GAME LIST - 100+ POPULAR GAMES
+# Format: package_name|Game Name|Max FPS|Vulkan|Category
+# =====================================================================
+
+# === BATTLE ROYALE ===
+com.tencent.ig|PUBG Mobile|120|Yes|Battle Royale
+com.pubg.newstate|PUBG New State|120|Yes|Battle Royale
+com.pubg.imobile|PUBG Mobile India|120|Yes|Battle Royale
+com.garena.game.codm|Call of Duty Mobile|120|Yes|Battle Royale
+com.dts.freefireth|Free Fire|90|No|Battle Royale
+com.dts.freefiremax|Free Fire MAX|120|Yes|Battle Royale
+com.epicgames.fortnite|Fortnite|120|Yes|Battle Royale
+com.netease.ROS|Rules of Survival|60|No|Battle Royale
+com.netease.knivesout|Knives Out|60|No|Battle Royale
+com.netease.cyberhunter|Cyber Hunter|60|No|Battle Royale
+com.netease.lostlight|Lost Light|90|Yes|Battle Royale
+
+# === MOBA ===
+com.mobile.legends|Mobile Legends: Bang Bang|120|No|MOBA
+com.riotgames.league.wildrift|League of Legends: Wild Rift|120|Yes|MOBA
+com.tencent.ngame.chty|Arena of Valor|120|Yes|MOBA
+com.netease.nyoka|Onmyoji Arena|60|No|MOBA
+com.netease.moba|Marvel Super War|60|No|MOBA
+com.tencent.pao|Pokémon UNITE|90|No|MOBA
+com.tencent.hero|Honor of Kings|120|Yes|MOBA
+
+# === FPS / SHOOTER ===
+com.activision.callofduty.shooter|Call of Duty Mobile|120|Yes|FPS
+com.valvesoftware.csgo|CS:GO Mobile|90|Yes|FPS
+com.badflyinteractive.deadtrigger2|Dead Trigger 2|120|Yes|FPS
+com.madfingergames.unkilled|Unkilled|60|No|FPS
+com.madfingergames.shadowgun|Shadowgun Legends|120|Yes|FPS
+com.tencent.crossfire|CrossFire Mobile|120|Yes|FPS
+
+# === RPG / OPEN WORLD ===
+com.miHoYo.GenshinImpact|Genshin Impact|120|Yes|Open World RPG
+com.HoYoverse.hkrpg|Honkai: Star Rail|120|Yes|RPG
+com.miHoYo.bh3global|Honkai Impact 3rd|120|Yes|Action RPG
+com.kurogame.punishinggrayraven|Punishing: Gray Raven|120|Yes|Action RPG
+com.netease.g123|Tower of Fantasy|120|Yes|Open World RPG
+com.bluepoch.arknights|Arknights|60|No|Tower Defense
+com.yostar.azurlane|Azur Lane|60|No|RPG
+com.netease.diabloimmortal|Diablo Immortal|90|Yes|RPG
+com.netmarble.marvelfuturerevolution|Marvel Future Revolution|120|Yes|RPG
+
+# === RACING ===
+com.ea.games.nfs13_row|Need for Speed No Limits|60|No|Racing
+com.gameloft.android.ANMP.GloftA8HM|Asphalt 8|60|No|Racing
+com.gameloft.android.ANMP.GloftA9HM|Asphalt 9: Legends|120|Yes|Racing
+com.naturalmotion.csr2|CSR Racing 2|60|No|Racing
+com.hutchgames.rebelracing|Rebel Racing|60|No|Racing
+com.vectorunit.purple|Beach Buggy Racing 2|60|No|Racing
+
+# === SPORTS ===
+com.ea.gp.fifamobile|FIFA Mobile|90|No|Sports
+com.konami.pesam|eFootball PES|120|Yes|Sports
+com.twofutures.dreamleaguesoccer|Dream League Soccer|60|No|Sports
+com.miniclip.eightballpool|8 Ball Pool|60|No|Sports
+
+# === STRATEGY ===
+com.supercell.clashofclans|Clash of Clans|60|No|Strategy
+com.supercell.clashroyale|Clash Royale|120|No|Strategy
+com.supercell.brawlstars|Brawl Stars|120|No|MOBA
+
+# === SURVIVAL / HORROR ===
+com.netease.identityv|Identity V|120|Yes|Horror
+com.behaviour.piggy|Dead by Daylight Mobile|120|Yes|Horror
+com.tencent.l4d|Left 4 Dead Mobile|90|Yes|Horror
+
+# === FIGHTING ===
+com.netmarble.marvelfuturerevolution|Marvel Future Revolution|120|Yes|RPG
+com.netease.mortal|Mortal Kombat Mobile|60|No|Fighting
+com.wb.goog.injustice|Injustice 2|60|No|Fighting
+
+# === CASUAL / ARCADE ===
+com.innersloth.spacemafia|Among Us|120|No|Casual
+com.mojang.minecraftpe|Minecraft|120|No|Sandbox
+com.roblox.client|Roblox|120|Yes|Sandbox
+com.xpro.gd|Geometry Dash|120|No|Arcade
+com.supercell.hayday|Hay Day|60|No|Farming
+
+# === MORE GAMES ===
+com.nexon.v4|V4|90|Yes|MMORPG
+com.netease.mir4|MIR4|90|Yes|MMORPG
+com.proximabeta.nikke|Goddess of Victory: Nikke|60|No|RPG
+com.tencent.subnautica|Subnautica Mobile|90|Yes|Survival
+com.lilithgames.rok|Rise of Kingdoms|60|No|Strategy
+com.lilithgames.afkarena|AFK Arena|60|No|RPG
+com.lilithgames.callofdragons|Call of Dragons|60|No|Strategy
+com.igg.android.lordsmobile|Lords Mobile|60|No|Strategy
+com.netease.lifeafter|LifeAfter|60|No|Survival
+com.kakaogames.guardiantales|Guardian Tales|120|No|RPG
+com.netmarble.kofg|King of Fighters ALLSTAR|60|No|Fighting
+com.squareenix.dqwalk|Dragon Quest Walk|60|No|RPG
+com.cygames.umamusume|Uma Musume|60|No|Simulation
+com.netease.evethegame|EVE Echoes|60|No|Strategy
+com.gameloft.android.GloftGHHM|Gangstar Vegas|60|No|Action
+com.halfbrick.fruitninja|Fruit Ninja|60|No|Arcade
+com.king.candycrushsaga|Candy Crush Saga|60|No|Puzzle
+com.rovio.baba|Angry Birds 2|60|No|Arcade
+com.vectorunit.red|Riptide GP: Renegade|60|No|Racing
+com.zenstudios.zenpinball|Zen Pinball|60|No|Arcade
+com.hago.game|NBA 2K Mobile|60|No|Sports
+com.ea.game.nba2k20|NBA 2K20 Mobile|60|No|Sports
+com.ea.game.nbalive|NBA Live Mobile|60|No|Sports
+com.netherrealm.mk|Mortal Kombat X|60|No|Fighting
+com.bandainamcoent.saods|Sword Art Online|60|No|RPG

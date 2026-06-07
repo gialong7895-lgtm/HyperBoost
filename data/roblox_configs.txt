@@ -1,0 +1,10 @@
+# =====================================================================
+# HYPERBOOST - ROBLOX CONFIGS
+# =====================================================================
+# Package: com.roblox.client
+# Max FPS: 120 | Vulkan: Yes
+
+adb shell settings put global roblox_max_fps 120
+adb shell settings put system roblox_frame_rate 120
+adb shell settings put system roblox_vulkan 1
+adb shell dumpsys deviceidle whitelist +com.roblox.client

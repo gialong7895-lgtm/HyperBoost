@@ -1,0 +1,18 @@
+# =====================================================================
+# HYPERBOOST - FREE FIRE CONFIGS
+# =====================================================================
+# Package: com.dts.freefireth (Free Fire)
+# Package: com.dts.freefiremax (Free Fire MAX)
+# Max FPS: 90/120 | Vulkan: MAX only
+
+# Free Fire
+adb shell settings put global freefire_max_fps 90
+adb shell settings put system dts_freefire_frame_rate 90
+
+# Free Fire MAX
+adb shell settings put global freefiremax_max_fps 120
+adb shell settings put system dts_freefiremax_frame_rate 120
+adb shell settings put system freefiremax_vulkan 1
+
+adb shell dumpsys deviceidle whitelist +com.dts.freefireth
+adb shell dumpsys deviceidle whitelist +com.dts.freefiremax

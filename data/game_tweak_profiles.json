@@ -1,0 +1,32 @@
+{
+  "profiles": [
+    {
+      "game": "PUBG Mobile",
+      "package": "com.tencent.ig",
+      "max_fps": 120,
+      "vulkan": true,
+      "graphics_quality": 4,
+      "shadows": 0,
+      "anti_aliasing": 1,
+      "governor": "performance",
+      "gpu_governor": "performance"
+    },
+    {
+      "game": "Genshin Impact",
+      "package": "com.miHoYo.GenshinImpact",
+      "max_fps": 120,
+      "vulkan": true,
+      "render_resolution": 1.0,
+      "shadow_quality": 0,
+      "governor": "performance"
+    },
+    {
+      "game": "Call of Duty Mobile",
+      "package": "com.activision.callofduty.shooter",
+      "max_fps": 120,
+      "vulkan": true,
+      "graphics_quality": 4,
+      "governor": "performance"
+    }
+  ]
+}

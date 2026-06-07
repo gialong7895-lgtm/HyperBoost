@@ -1,0 +1,23 @@
+# =====================================================================
+# HYPERBOOST - ANGLE COMPATIBLE PACKAGES
+# =====================================================================
+com.miHoYo.GenshinImpact
+com.activision.callofduty.shooter
+com.pubg.newstate
+com.tencent.ig
+com.dts.freefiremax
+com.riotgames.league.wildrift
+com.kurogame.punishinggrayraven
+com.HoYoverse.hkrpg
+com.netease.g123
+com.epicgames.fortnite
+com.gameloft.android.ANMP.GloftA9HM
+com.madfingergames.shadowgun
+com.netease.identityv
+com.badflyinteractive.deadtrigger2
+com.miHoYo.bh3global
+com.netease.diabloimmortal
+com.tencent.crossfire
+com.roblox.client
+com.konami.pesam
+com.netease.mir4

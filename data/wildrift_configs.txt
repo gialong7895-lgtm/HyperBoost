@@ -1,0 +1,11 @@
+# =====================================================================
+# HYPERBOOST - LEAGUE OF LEGENDS: WILD RIFT CONFIGS
+# =====================================================================
+# Package: com.riotgames.league.wildrift
+# Max FPS: 120 | Vulkan: Yes
+
+adb shell settings put global wildrift_max_fps 120
+adb shell settings put system riot_wildrift_frame_rate 120
+adb shell settings put global wildrift_graphics_quality 4
+adb shell settings put system wildrift_vulkan 1
+adb shell dumpsys deviceidle whitelist +com.riotgames.league.wildrift

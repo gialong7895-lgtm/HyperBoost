@@ -1,0 +1,20 @@
+# =====================================================================
+# HYPERBOOST - CALL OF DUTY MOBILE CONFIGS
+# =====================================================================
+# Package: com.activision.callofduty.shooter
+# Max FPS: 120 | Vulkan: Yes
+
+# ADB Commands
+adb shell settings put global codm_max_fps 120
+adb shell settings put system activision_frame_rate 120
+adb shell settings put global codm_graphics_quality 4
+adb shell settings put system codm_vulkan_enabled 1
+adb shell settings put global codm_shadows_quality 0
+adb shell settings put system codm_anti_aliasing 0
+adb shell dumpsys deviceidle whitelist +com.activision.callofduty.shooter
+
+# Root Config
+# /data/data/com.activision.callofduty.shooter/shared_prefs/com.activision.callofduty.shooter.v2.playerprefs.xml
+# <int name="GraphicsQuality" value="4" />
+# <int name="FrameRate" value="120" />
+# <boolean name="VulkanEnabled" value="true" />

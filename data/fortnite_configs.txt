@@ -1,0 +1,17 @@
+# =====================================================================
+# HYPERBOOST - FORTNITE MOBILE CONFIGS
+# =====================================================================
+# Package: com.epicgames.fortnite
+# Max FPS: 120 | Vulkan: Yes
+
+# ADB Commands
+adb shell settings put global fortnite_max_fps 120
+adb shell settings put system epic_frame_rate 120
+adb shell settings put global fortnite_graphics_quality 4
+adb shell settings put system fortnite_vulkan 1
+adb shell dumpsys deviceidle whitelist +com.epicgames.fortnite
+
+# Config File
+# /Android/data/com.epicgames.fortnite/files/UE4Game/FortniteGame/FortniteGame/Saved/Config/Android/GameUserSettings.ini
+# FrameRateLimit=120.000000
+# bUseVSync=False

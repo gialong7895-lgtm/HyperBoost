@@ -1,0 +1,34 @@
+# =====================================================================
+# HYPERBOOST - 120 FPS SUPPORTED GAMES DATABASE
+# Format: package_name|Game Name|Config Key
+# =====================================================================
+com.tencent.ig|PUBG Mobile|pubg_max_fps=120
+com.pubg.newstate|PUBG New State|newstate_fps=120
+com.activision.callofduty.shooter|Call of Duty Mobile|codm_max_fps=120
+com.miHoYo.GenshinImpact|Genshin Impact|genshin_fps=120
+com.HoYoverse.hkrpg|Honkai: Star Rail|hkrpg_fps=120
+com.riotgames.league.wildrift|Wild Rift|wildrift_fps=120
+com.mobile.legends|Mobile Legends|mlbb_fps=120
+com.garena.game.codm|CODM Garena|codm_garena_fps=120
+com.dts.freefiremax|Free Fire MAX|freefire_max_fps=120
+com.kurogame.punishinggrayraven|Punishing Gray Raven|pgr_fps=120
+com.supercell.brawlstars|Brawl Stars|brawlstars_fps=120
+com.supercell.clashroyale|Clash Royale|clashroyale_fps=120
+com.epicgames.fortnite|Fortnite|fortnite_fps=120
+com.gameloft.android.ANMP.GloftA9HM|Asphalt 9|asphalt9_fps=120
+com.netease.g123|Tower of Fantasy|tof_fps=120
+com.tencent.ngame.chty|Arena of Valor|aov_fps=120
+com.netease.diabloimmortal|Diablo Immortal|diablo_fps=120
+com.miHoYo.bh3global|Honkai Impact 3rd|hi3_fps=120
+com.roblox.client|Roblox|roblox_fps=120
+com.konami.pesam|eFootball PES|pes_fps=120
+com.netease.identityv|Identity V|idv_fps=120
+com.madfingergames.shadowgun|Shadowgun Legends|shadowgun_fps=120
+com.mojang.minecraftpe|Minecraft|minecraft_fps=120
+com.tencent.crossfire|CrossFire Mobile|crossfire_fps=120
+com.xpro.gd|Geometry Dash|gd_fps=120
+com.netmarble.marvelfuturerevolution|Marvel Future Revolution|mfr_fps=120
+com.innersloth.spacemafia|Among Us|amongus_fps=120
+com.valvesoftware.csgo|CS:GO Mobile|csgo_fps=120
+com.behaviour.piggy|Dead by Daylight Mobile|dbd_fps=120
+com.tencent.pao|Pokémon UNITE|pokemon_fps=120

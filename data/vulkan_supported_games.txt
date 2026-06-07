@@ -1,0 +1,27 @@
+# =====================================================================
+# HYPERBOOST - VULKAN SUPPORTED GAMES
+# =====================================================================
+# Format: package_name|Game Name|Vulkan Version|Performance Gain
+com.miHoYo.GenshinImpact|Genshin Impact|Vulkan 1.3|+35% FPS
+com.activision.callofduty.shooter|Call of Duty Mobile|Vulkan 1.2|+40% FPS
+com.pubg.newstate|PUBG New State|Vulkan 1.3|+45% FPS
+com.tencent.ig|PUBG Mobile|Vulkan 1.2|+30% FPS
+com.dts.freefiremax|Free Fire MAX|Vulkan 1.1|+25% FPS
+com.riotgames.league.wildrift|League of Legends: Wild Rift|Vulkan 1.2|+30% FPS
+com.kurogame.punishinggrayraven|Punishing: Gray Raven|Vulkan 1.3|+40% FPS
+com.HoYoverse.hkrpg|Honkai: Star Rail|Vulkan 1.3|+35% FPS
+com.netease.g123|Tower of Fantasy|Vulkan 1.2|+30% FPS
+com.epicgames.fortnite|Fortnite|Vulkan 1.3|+50% FPS
+com.gameloft.android.ANMP.GloftA9HM|Asphalt 9|Vulkan 1.1|+20% FPS
+com.netease.identityv|Identity V|Vulkan 1.2|+30% FPS
+com.madfingergames.shadowgun|Shadowgun Legends|Vulkan 1.2|+35% FPS
+com.badflyinteractive.deadtrigger2|Dead Trigger 2|Vulkan 1.1|+25% FPS
+com.tencent.ngame.chty|Arena of Valor|Vulkan 1.2|+30% FPS
+com.konami.pesam|eFootball PES|Vulkan 1.2|+25% FPS
+com.miHoYo.bh3global|Honkai Impact 3rd|Vulkan 1.3|+35% FPS
+com.netease.diabloimmortal|Diablo Immortal|Vulkan 1.2|+30% FPS
+com.tencent.crossfire|CrossFire Mobile|Vulkan 1.1|+20% FPS
+com.roblox.client|Roblox|Vulkan 1.2|+25% FPS
+com.netease.mir4|MIR4|Vulkan 1.1|+20% FPS
+com.nexon.v4|V4|Vulkan 1.2|+25% FPS
+com.netease.lostlight|Lost Light|Vulkan 1.2|+30% FPS

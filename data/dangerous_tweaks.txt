@@ -1,0 +1,39 @@
+# =====================================================================
+# HYPERBOOST - DANGEROUS TWEAKS WARNING LIST
+# =====================================================================
+# These tweaks can cause:
+# - Device overheating
+# - Battery damage
+# - Permanent hardware failure
+# - Bootloop
+# - Data loss
+# USE AT YOUR OWN RISK
+
+# Thermal Disable
+stop thermal-engine
+echo disabled > /sys/class/thermal/thermal_zone0/mode
+
+# CPU Overclock (unsafe)
+echo 9999999 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq
+
+# GPU Overclock (unsafe)
+echo 999999999 > /sys/class/kgsl/kgsl-3d0/max_gpuclk
+
+# SELinux Permissive
+setenforce 0
+
+# Remove all thermal limits
+rm -rf /vendor/etc/thermal-*.conf
+
+# Force close all apps
+am force-stop --user 0 -a
+
+# Delete dalvik cache
+rm -rf /data/dalvik-cache/*
+
+# Disable verity
+adb disable-verity
+
+# Format data
+# WARNING: THIS WILL ERASE ALL DATA
+# fastboot format userdata

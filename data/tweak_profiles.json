@@ -1,0 +1,35 @@
+{
+  "version": "5.0",
+  "profiles": {
+    "balanced": {
+      "governor": "schedutil",
+      "animation_scale": 0.5,
+      "gpu_render": true,
+      "background_processes": 32,
+      "wifi_scan": false,
+      "logging": false
+    },
+    "performance": {
+      "governor": "performance",
+      "animation_scale": 0.0,
+      "gpu_render": true,
+      "background_processes": 16,
+      "wifi_scan": false,
+      "logging": false,
+      "vulkan": true,
+      "fps_unlock": true
+    },
+    "gaming": {
+      "governor": "performance",
+      "animation_scale": 0.0,
+      "gpu_render": true,
+      "background_processes": 8,
+      "wifi_scan": false,
+      "logging": false,
+      "vulkan": true,
+      "fps_unlock": true,
+      "thermal_limit": "disabled",
+      "max_fps": 120
+    }
+  }
+}

@@ -1,0 +1,38 @@
+# =====================================================================
+# HYPERBOOST - SAFE TO REMOVE PACKAGES
+# =====================================================================
+# Google Apps (safe to remove)
+com.google.android.apps.maps
+com.google.android.apps.photos
+com.google.android.apps.docs
+com.google.android.videos
+com.google.android.music
+com.google.android.apps.youtube.music
+com.google.android.apps.podcasts
+com.google.android.apps.tachyon
+com.google.android.apps.nbu.files
+
+# Facebook (safe to remove)
+com.facebook.appmanager
+com.facebook.system
+com.facebook.services
+com.facebook.katana
+
+# Microsoft (safe to remove)
+com.microsoft.skydrive
+com.microsoft.office.officehubrow
+com.microsoft.office.excel
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+
+# Social (safe to remove)
+com.instagram.android
+com.twitter.android
+com.snapchat.android
+com.tiktok.android
+
+# Streaming (safe to remove)
+com.netflix.mediaclient
+com.netflix.partner.activation
+com.spotify.music
+com.amazon.mShop.android.shopping

@@ -1,0 +1,154 @@
+================================================================================
+HYPERBOOST ULTIMATE v5.0 - COMPLETE FILE LIST
+================================================================================
+HyperBoost/file_list.txt
+HyperBoost/setup.sh
+HyperBoost/setup_interactive.sh
+HyperBoost/README.md
+HyperBoost/LICENSE
+HyperBoost/CHANGELOG.md
+HyperBoost/CONTRIBUTING.md
+HyperBoost/.gitignore
+HyperBoost/SECURITY.md
+HyperBoost/CREDITS.md
+HyperBoost/requirements.txt
+
+--- CORE MODULES (5 Levels) ---
+HyperBoost/modules/level1_no_root_adb.sh
+HyperBoost/modules/level2_adb.sh
+HyperBoost/modules/level3_root.sh
+HyperBoost/modules/level4_pc_adb.sh
+HyperBoost/modules/level5_pc_root.sh
+
+--- GAME MODULES ---
+HyperBoost/modules/force_120fps_all.sh
+HyperBoost/modules/force_90fps_all.sh
+HyperBoost/modules/enable_vulkan_all.sh
+HyperBoost/modules/angle_vulkan_injector.sh
+HyperBoost/modules/game_optimizer.sh
+
+--- SYSTEM MODULES ---
+HyperBoost/modules/kernel_tuner.sh
+HyperBoost/modules/thermal_unlocker.sh
+HyperBoost/modules/backup_restore.sh
+HyperBoost/modules/clean_cache.sh
+HyperBoost/modules/ram_optimizer.sh
+HyperBoost/modules/zram_tuner.sh
+HyperBoost/modules/entropy_boost.sh
+HyperBoost/modules/fstrim_optimizer.sh
+HyperBoost/modules/tweak_animation.sh
+HyperBoost/modules/tweak_gpu_rendering.sh
+HyperBoost/modules/boost_network.sh
+HyperBoost/modules/disable_logging.sh
+HyperBoost/modules/battery_saver_tweak.sh
+HyperBoost/modules/optimize_dalvik.sh
+HyperBoost/modules/exploit_temporary_root.sh
+HyperBoost/modules/brevent_injector.sh
+
+--- DEBLOAT MODULES ---
+HyperBoost/modules/debloat_samsung.sh
+HyperBoost/modules/debloat_xiaomi.sh
+HyperBoost/modules/debloat_oppo.sh
+HyperBoost/modules/debloat_vivo.sh
+HyperBoost/modules/debloat_huawei.sh
+HyperBoost/modules/debloat_oneplus.sh
+HyperBoost/modules/debloat_google.sh
+HyperBoost/modules/debloat_asus.sh
+HyperBoost/modules/debloat_sony.sh
+HyperBoost/modules/debloat_nokia.sh
+HyperBoost/modules/debloat_motorola.sh
+HyperBoost/modules/debloat_lenovo.sh
+HyperBoost/modules/debloat_zte.sh
+HyperBoost/modules/debloat_tecno.sh
+HyperBoost/modules/debloat_nothing.sh
+HyperBoost/modules/debloat_realme.sh
+HyperBoost/modules/debloat_honor.sh
+HyperBoost/modules/debloat_transsion.sh
+HyperBoost/modules/debloat_generic.sh
+
+--- TOOLS ---
+HyperBoost/tools/get_adb.sh
+HyperBoost/tools/get_fastboot.sh
+HyperBoost/tools/check_dependencies.sh
+HyperBoost/tools/wireless_adb_connect.sh
+HyperBoost/tools/detect_device_info.sh
+HyperBoost/tools/auto_root_check.sh
+HyperBoost/tools/dependency_installer.sh
+
+--- DATA ---
+HyperBoost/data/chip_gpu_db.txt
+HyperBoost/data/tweak_profiles.json
+HyperBoost/data/exploit_cve_db.txt
+HyperBoost/data/angle_packages.txt
+HyperBoost/data/fps_unlock_packages.txt
+HyperBoost/data/game_list_complete.txt
+HyperBoost/data/vulkan_supported_games.txt
+HyperBoost/data/90fps_games.txt
+HyperBoost/data/120fps_games.txt
+HyperBoost/data/game_tweak_profiles.json
+HyperBoost/data/safe_to_remove_packages.txt
+HyperBoost/data/dangerous_tweaks.txt
+HyperBoost/data/pubg_configs.txt
+HyperBoost/data/genshin_configs.txt
+HyperBoost/data/codm_configs.txt
+HyperBoost/data/mlbb_configs.txt
+HyperBoost/data/freefire_configs.txt
+HyperBoost/data/roblox_configs.txt
+HyperBoost/data/fortnite_configs.txt
+HyperBoost/data/wildrift_configs.txt
+HyperBoost/data/valorant_configs.txt
+HyperBoost/data/apex_configs.txt
+
+--- EXPLOITS ---
+HyperBoost/exploits/fps_unlocker.sh
+HyperBoost/exploits/vulkan_force_enabler.sh
+HyperBoost/exploits/game_optimizer_bypass.sh
+HyperBoost/exploits/thermal_bypass.sh
+HyperBoost/exploits/run_as_root_exploit.sh
+HyperBoost/exploits/sepolicy_injector.sh
+
+--- PC SCRIPTS ---
+HyperBoost/pc_scripts/windows_setup.bat
+HyperBoost/pc_scripts/install_drivers.bat
+HyperBoost/pc_scripts/run_as_admin.ps1
+HyperBoost/pc_scripts/wireless_adb_pair.bat
+HyperBoost/pc_scripts/linux_setup.sh
+HyperBoost/pc_scripts/macos_setup.sh
+
+--- PYTHON ---
+HyperBoost/python/kernel_tuner.py
+HyperBoost/python/vulkan_layer_manager.py
+HyperBoost/python/fps_injector.py
+HyperBoost/python/adb_shell_wrapper.py
+HyperBoost/python/device_info_scanner.py
+HyperBoost/python/game_profile_manager.py
+HyperBoost/python/performance_analyzer.py
+
+--- C SOURCE ---
+HyperBoost/c/freq_lock.c
+HyperBoost/c/dirtypipe_exploit.c
+HyperBoost/c/gpu_governor_injector.c
+HyperBoost/c/fps_unlock_native.c
+HyperBoost/c/memory_optimizer.c
+HyperBoost/c/Makefile
+
+--- EXTRAS ---
+HyperBoost/extras/build.prop.patches
+HyperBoost/extras/gpu_tuning.sh
+HyperBoost/extras/entropy_generator.sh
+HyperBoost/extras/battery_calibrate.sh
+HyperBoost/extras/fstrim_schedule.sh
+
+--- BACKUP ---
+HyperBoost/backup/.gitkeep
+
+--- DOCS ---
+HyperBoost/docs/FAQ.md
+HyperBoost/docs/SAFETY_GUIDE.md
+HyperBoost/docs/PERFORMANCE_TIPS.md
+HyperBoost/docs/BRICK_RECOVERY.md
+HyperBoost/docs/GAME_COMPATIBILITY.md
+HyperBoost/docs/COMMANDS_REFERENCE.md
+================================================================================
+TOTAL: 120+ FILES
+================================================================================

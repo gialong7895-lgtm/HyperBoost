@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+*.egg-info/
+
+# Binary
+tools/adb*
+tools/fastboot*
+tools/sqlite3*
+
+# Backup
+backup/original_*
+backup/*.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp
+*.log
+*.tmp
+temp/
+*.zip
+
+# Git
+*.orig

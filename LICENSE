@@ -1,0 +1,34 @@
+
+---
+
+## 📄 **CREDITS.md**
+```markdown
+# Credits
+
+## Core Developer
+- **HyperBoost Team** - Main development
+
+## Contributors
+- Android optimization community
+- XDA Developers forums
+- Termux community
+
+## Special Thanks
+- Google Android Platform Tools
+- ANGLE/Vulkan documentation
+- All game testers and bug reporters
+
+## Third-Party Tools
+- ADB/Fastboot - Google
+- Python 3 - Python Software Foundation
+- Git - Git SCM
+
+## Inspiration
+- LSpeed
+- FDE.AI
+- GLTools
+- Brevent
+
+---
+
+**Made with ❤️ for the Android gaming community**

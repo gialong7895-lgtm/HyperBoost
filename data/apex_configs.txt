@@ -1,0 +1,12 @@
+# =====================================================================
+# HYPERBOOST - APEX LEGENDS MOBILE CONFIGS
+# =====================================================================
+# Package: com.ea.gp.apexlegendsmobilefps
+# Max FPS: 120 | Vulkan: Yes
+
+# ADB Commands
+adb shell settings put global apex_max_fps 120
+adb shell settings put system ea_apex_frame_rate 120
+adb shell settings put global apex_graphics_quality 4
+adb shell settings put system apex_vulkan_enabled 1
+adb shell dumpsys deviceidle whitelist +com.ea.gp.apexlegendsmobilefps

@@ -1,0 +1,45 @@
+# =====================================================================
+# HYPERBOOST - FPS UNLOCK PACKAGES
+# =====================================================================
+com.tencent.ig
+com.pubg.newstate
+com.activision.callofduty.shooter
+com.miHoYo.GenshinImpact
+com.HoYoverse.hkrpg
+com.riotgames.league.wildrift
+com.mobile.legends
+com.garena.game.codm
+com.dts.freefireth
+com.dts.freefiremax
+com.kurogame.punishinggrayraven
+com.supercell.brawlstars
+com.supercell.clashroyale
+com.epicgames.fortnite
+com.gameloft.android.ANMP.GloftA9HM
+com.netease.g123
+com.tencent.ngame.chty
+com.netease.diabloimmortal
+com.miHoYo.bh3global
+com.roblox.client
+com.konami.pesam
+com.netease.identityv
+com.madfingergames.shadowgun
+com.mojang.minecraftpe
+com.tencent.crossfire
+com.xpro.gd
+com.netmarble.marvelfuturerevolution
+com.innersloth.spacemafia
+com.valvesoftware.csgo
+com.behaviour.piggy
+com.tencent.pao
+com.ea.gp.fifamobile
+com.nexon.v4
+com.netease.mir4
+com.netease.lostlight
+com.tencent.subnautica
+com.badflyinteractive.deadtrigger2
+com.vectorunit.purple
+com.hutchgames.rebelracing
+com.netease.ROS
+com.netease.knivesout
+com.netease.cyberhunter

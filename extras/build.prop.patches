@@ -1,0 +1,19 @@
+# =====================================================================
+# HYPERBOOST - BUILD.PROP SAFE PATCHES
+# =====================================================================
+debug.performance.tuning=1
+video.accelerate.hw=1
+persist.sys.composition.type=gpu
+debug.sf.hw=1
+persist.sys.ui.hw=1
+ro.config.hw_quickpoweron=true
+debug.egl.hw=1
+debug.composition.type=gpu
+persist.sys.powerhal.mode=performance
+ro.sys.fw.bg_apps_limit=32
+windowsmgr.max_events_per_sec=150
+ro.max.fling_velocity=12000
+ro.min.fling_velocity=8000
+debug.egl.profiler=1
+debug.egl.swapinterval=0
+persist.sys.scrollingcache=3
