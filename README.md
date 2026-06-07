@@ -29,4 +29,4 @@
 pkg update -y && pkg install git -y
 git clone https://github.com/gialong789-lgtm/HyperBoost.git
 cd HyperBoost
-bash setup.sh
+bash setup.sh# HyperBoost
