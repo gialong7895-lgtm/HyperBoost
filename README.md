@@ -26,7 +26,7 @@
 
 ### Termux (Android)
 ```bash
-pkg update -y && pkg install git -y
-git clone https://github.com/gialong789-lgtm/HyperBoost.git
+pkg update -y && pkg install git -y && pkg install python -y
+git clone https://github.com/gialong7895-lgtm/HyperBoost.git
 cd HyperBoost
-bash setup.sh# HyperBoost
+bash setup.sh HyperBoost
