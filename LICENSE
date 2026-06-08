@@ -1,34 +1,58 @@
+MIT License
 
----
+Copyright (c) 2026 HyperBoost Team
 
-## 📄 **CREDITS.md**
-```markdown
-# Credits
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Core Developer
-- **HyperBoost Team** - Main development
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Contributors
-- Android optimization community
-- XDA Developers forums
-- Termux community
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-## Special Thanks
-- Google Android Platform Tools
-- ANGLE/Vulkan documentation
-- All game testers and bug reporters
+====================================================================
+⚠️ DISCLAIMER - TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM
+====================================================================
 
-## Third-Party Tools
-- ADB/Fastboot - Google
-- Python 3 - Python Software Foundation
-- Git - Git SCM
+HYPERBOOST LÀ CÔNG CỤ TỐI ƯU HIỆU NĂNG ANDROID MÃ NGUỒN MỞ.
 
-## Inspiration
-- LSpeed
-- FDE.AI
-- GLTools
-- Brevent
+BẰNG CÁCH SỬ DỤNG PHẦN MỀM NÀY, BẠN ĐỒNG Ý VỚI CÁC ĐIỀU KHOẢN SAU:
 
----
+1. KHÔNG CÓ BẢO HÀNH: Phần mềm được cung cấp "như hiện tại" mà không có 
+   bất kỳ bảo đảm nào, dù rõ ràng hay ngụ ý.
 
-**Made with ❤️ for the Android gaming community**
+2. RỦI RO CÁ NHÂN: Bạn tự chịu mọi rủi ro khi sử dụng. Các tính năng như 
+   ép xung CPU/GPU, vô hiệu hóa thermal, bypass SELinux có thể gây ra:
+   - Hư hỏng phần cứng vĩnh viễn
+   - Cháy CPU/GPU do quá nhiệt
+   - Mất dữ liệu
+   - Bootloop, brick thiết bị
+   - Mất bảo hành từ nhà sản xuất
+
+3. KHÔNG CHỊU TRÁCH NHIỆM: Tác giả và người đóng góp KHÔNG chịu trách 
+   nhiệm về bất kỳ thiệt hại nào phát sinh từ việc sử dụng phần mềm này.
+
+4. CHỈ DÀNH CHO THIẾT BỊ CỦA BẠN: Chỉ sử dụng trên thiết bị bạn sở hữu.
+   Việc sử dụng trên thiết bị của người khác mà không được phép là vi phạm.
+
+5. SAO LƯU TRƯỚC: Luôn sao lưu dữ liệu quan trọng trước khi sử dụng bất 
+   kỳ tính năng nâng cao nào.
+
+6. HIỂU RÕ RỦI RO: Các cấp độ 3-5 yêu cầu root, tiềm ẩn rủi ro cao hơn.
+
+7. KHÔNG DÀNH CHO NGƯỜI MỚI: Nếu bạn không hiểu rõ về Android, ADB, Root,
+   hãy chỉ sử dụng Cấp độ 1-2.
+
+BẠN ĐÃ ĐƯỢC CẢNH BÁO ĐẦY ĐỦ.
+TIẾP TỤC SỬ DỤNG = BẠN CHẤP NHẬN MỌI RỦI RO.
+====================================================================

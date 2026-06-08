@@ -17,6 +17,7 @@ GAMES_90FPS=(
     "com.tencent.l4d" "com.valvesoftware.csgo"
     "com.netease.diabloimmortal" "com.tencent.pao"
     "com.ea.gp.fifamobile" "com.gameloft.android.GloftGHHM"
+    "com.garena.game.kgvn"
 )
 for pkg in "${GAMES_90FPS[@]}"; do
     adb shell settings put global "${pkg}_max_fps" 90 2>/dev/null

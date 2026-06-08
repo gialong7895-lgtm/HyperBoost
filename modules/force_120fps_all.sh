@@ -48,6 +48,7 @@ GAMES_120FPS=(
     "com.valvesoftware.csgo"
     "com.behaviour.piggy"
     "com.tencent.pao"
+    "com.garena.game.kgvn"
 )
 
 # Apply FPS

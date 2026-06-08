@@ -11,7 +11,7 @@ echo -e "${CYAN}╚════════════════════�
 
 echo -e "${YELLOW}[*] Enabling ANGLE for supported games...${NC}"
 
-ANGLE_PKGS="com.miHoYo.GenshinImpact;com.activision.callofduty.shooter;com.pubg.newstate;com.tencent.ig;com.dts.freefiremax;com.riotgames.league.wildrift;com.kurogame.punishinggrayraven"
+ANGLE_PKGS="com.miHoYo.GenshinImpact;com.activision.callofduty.shooter;com.pubg.newstate;com.tencent.ig;com.dts.freefiremax;com.riotgames.league.wildrift;com.kurogame.punishinggrayraven;com.garena.game.kgvn"
 ANGLE_VALS="angle;angle;angle;angle;angle;angle;angle"
 
 adb shell settings put global angle_gl_driver_selection_pkgs "$ANGLE_PKGS" 2>/dev/null
